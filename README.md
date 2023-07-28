@@ -7,7 +7,7 @@ Uma aplicação Cliente/Servidor que utiliza Threads
 
 A aplicação deve executar em menos de 100 segundos.
 
->Projeto criado para uma tarefa na diciplina de Sistemas Distribuidos.
+>Projeto criado para uma tarefa na disciplina de Sistemas Distribuidos.
 
 # Requisitos
 - JDK 17
